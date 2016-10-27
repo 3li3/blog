@@ -4,8 +4,8 @@
 
 # Site
 title: 3li3 博客
-subtitle: 提供 App 推荐、评论和价格比较，以及其他。
-description: 3li3 更新
+subtitle:
+description: 提供 App 推荐、评论和价格比较，以及其他。
 author: forecho
 language: zh-Hans
 timezone:

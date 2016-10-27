@@ -1,7 +1,7 @@
 ---
 title: 3li3 - 提供 App 推荐、评论和价格比较，以及其他
 ---
-![三立三.app](http://upload-images.jianshu.io/upload_images/1096-c56b8114cf8c8b4e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![三立三.app](https://pic1.zhimg.com/989969dce34eb89d13b7584ab5261700_b.jpg)
 
 
 # 关于[三立三](http://3li3.com/?utm_source=blog)
