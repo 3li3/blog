@@ -65,6 +65,10 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+duoshuo_shortname: 3li3
+duoshuo_share: true
+duoshuo_hotartical: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

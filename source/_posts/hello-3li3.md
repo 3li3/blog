@@ -1,5 +1,8 @@
 ---
 title: 3li3 - 提供 App 推荐、评论和价格比较，以及其他
+date: 2016-10-27 12:39:04
+categories: 官网说明
+type: "3li3"
 ---
 ![三立三.app](https://pic1.zhimg.com/989969dce34eb89d13b7584ab5261700_b.jpg)
 
@@ -14,7 +17,10 @@ title: 3li3 - 提供 App 推荐、评论和价格比较，以及其他
 
 1. App Store 首页推荐的一些 App 还是挺有趣的，但是 App Store 的访问速度有时候真的不能忍受。
 2. AppShopper 的功能其实能满足我大多数需求，但是它没有价格走势，不支持中文搜索。
+3. AppShopper 有时候价格消息不正确。
 ...
+
+<!-- more -->
 
 ## 如何使用？
 

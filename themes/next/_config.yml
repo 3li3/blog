@@ -30,10 +30,10 @@ canonical: true
 menu:
   home: /
   #categories: /categories
-  #about: /about
+  feedback: /feedback
   archives: /archives
   tags: /tags
-  schedule: /schedule
+  # schedule: /schedule
   #commonweal: /404.html
 
 
