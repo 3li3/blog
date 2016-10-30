@@ -1,13 +1,10 @@
 ---
-title: 3li3 - 提供 App 推荐、评论和价格比较，以及其他
+title: 三立三 - 提供 App 推荐、评论和价格比较，以及其他
 date: 2016-10-27 12:39:04
 categories: 官网说明
 tags: "3li3"
 ---
-![三立三.app](https://pic1.zhimg.com/989969dce34eb89d13b7584ab5261700_b.jpg)
-
-
-# 关于[三立三](http://3li3.com/?utm_source=blog)
+![](https://ws2.sinaimg.cn/mw690/4cc5f9b3gw1f9aofw8shlj20xc0m60wn.jpg)
 
 ## 诞生记
 
