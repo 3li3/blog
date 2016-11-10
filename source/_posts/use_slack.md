@@ -31,7 +31,7 @@ tags: "slack"
 
 鼠标往下滚动还可以配置一些可选的配置信息操作：
 
-![](https://ws3.sinaimg.cn/large/4cc5f9b3gw1f9m20cw8pbj20ts07ujsd.jpg)
+![](http://ww4.sinaimg.cn/large/4cc5f9b3gw1f9m22hnwiaj20rd0c8dh0.jpg)
 
 当在 Slack 看到如下配置信息的时候就说明配置成功：
 
