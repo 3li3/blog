@@ -4,7 +4,7 @@ date: 2016-11-09 18:39:04
 categories: 使用指南
 tags: "workflow"
 ---
-<video width="960" height="640" controls>
+<video width="480" height="760" controls>
 <source src="http://77g3k8.com1.z0.glb.clouddn.com/workflow.mov">
 </video>
 
