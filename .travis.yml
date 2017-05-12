@@ -7,11 +7,11 @@ cache:
     - node_modules
 
 install:
-  - npm install  #安装hexo及插件
+  - npm install  # 安装hexo及插件
 
 script:
-  - hexo cl  #清除
-  - hexo g  #生成
+  - hexo cl  # 清除
+  - hexo g  # 生成
 
 after_script:
   - cd public
