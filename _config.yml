@@ -75,3 +75,13 @@ deploy:
   type: git
   repo: git@github.com:3li3/blog.git
   branch: gh-pages
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+    hub:
+    content:
+    content_limit:
+    content_limit_delim: ' '
+    order_by: -date
