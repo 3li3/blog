@@ -81,7 +81,5 @@ feed:
     path: atom.xml
     limit: 20
     hub:
-    content:
-    content_limit:
-    content_limit_delim: ' '
+    content: true
     order_by: -date
