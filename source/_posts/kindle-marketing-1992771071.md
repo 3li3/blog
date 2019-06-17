@@ -8,7 +8,7 @@ tags: "亚马逊活动"
 ## Kindle新春开年礼 限时下单1.99元第一波
 
 - 活动时间：1月21日00:00:00 至 1月27日23:59:59，本活动仅专题内书籍享有优惠折扣。
-- 活动地址：[https://www.amazon.cn/b?ie=UTF8&node=1992771071](https://www.amazon.cn/b?ie=UTF8&node=1992771071&tag=forecho0c-23)
+- 活动地址：[https://www.amazon.cn/b?ie=UTF8&node=1992771071](https://www.amazon.cn/b?ie=UTF8&node=1992771071&tag=forecho01-23)
 - 该活动还可叠加：Kindle电子书全场购买累计满50元返50元电子书券大礼包，支付成功并达到累计金额之后的3个工作日内返券，查看细则。活动截至：2019年2月3日 23:59:59。
 
 
