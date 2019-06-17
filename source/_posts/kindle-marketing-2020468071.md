@@ -1,5 +1,5 @@
 ---
-title: Kindle电子书限时下单1.99元 第二波
+title: 亚马逊中国 618年中大促 Kindle电子书 （第二波）
 date: 2019-06-17 21:53:23
 categories: 电子书
 tags: "亚马逊活动"
